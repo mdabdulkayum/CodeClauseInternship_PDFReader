@@ -35,7 +35,7 @@ When users click on any PDF file outside the app (for example from File Manager)
 
 # Download APK
 
-<a href="https://github.com/mdabdulkayum/CodeClauseInternship_PDFReader/releases/download/V0.0.1/PDFReader.apk"><img width="200" src="https://github.com/mdabdulkayum/resourceFile/blob/main/image/download_icon.png"> </a>
+<a href="https://github.com/mdabdulkayum/CodeClauseInternship_PDFReader/releases/download/V0.0.2/PDF.Reader.apk"><img width="200" src="https://github.com/mdabdulkayum/resourceFile/blob/main/image/download_icon.png"> </a>
 
 # Screenshot
 
